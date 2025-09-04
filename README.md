@@ -11,8 +11,11 @@ Features:
 3-View tasks.
 
 Project Structurs:
+
 todo-app/
+
 │── functions.py   ← فيه الفنكشنات (add_task, view_tasks, mark_task_complete)
+
 │── main.py        ← ده ملف التشغيل (بيستورد الفنكشنات وبيشغل المين لوب)
 
 Developer Information:
