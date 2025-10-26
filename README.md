@@ -14,9 +14,10 @@ Project Structurs:
 
 todo-app/
 
-│── functions.py   ← فيه الفنكشنات (add_task, view_tasks, mark_task_complete)
+│── functions.py   
+ (add_task, view_tasks,       mark_task_complete)
 
-│── main.py        ← ده ملف التشغيل (بيستورد الفنكشنات وبيشغل المين لوب)
+│── main.py       
 
 Developer Information:
 
